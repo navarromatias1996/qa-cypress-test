@@ -43,12 +43,9 @@ cypress/
    npx cypress open
 4. Seleccionar E2E Testing y correr los tests
 
-## Observaciones / Mejoras
-
 ## Observaciones / Mejoras (sugerencias)
 
 - Se podría implementar screenshot automático al fallar un test.
-- Validar que el botón "Agregar al carrito" no acepte stock insuficiente.
 - Capturar errores de validación del formulario de login.
 - Para API: manejar errores 400/500 y verificar headers de respuesta.
 
